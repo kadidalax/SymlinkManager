@@ -1,6 +1,7 @@
 # Windows 软链接管理器
 
 用于在 Windows 上创建、检查和删除符号链接与目录联接的图形界面工具。
+<img width="982" height="672" alt="image" src="https://github.com/user-attachments/assets/4a9c5882-3c97-4642-8f37-0bb1d7a4f468" />
 
 ## 最重要的概念：Source 和 Target
 
